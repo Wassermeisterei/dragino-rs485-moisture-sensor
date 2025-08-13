@@ -6,14 +6,6 @@ AT+STOPBIT=1 //1 person
 AT+PARITY=0  //Parity: no
 AT+BAUTDR=4800 //4800bit / s
 
-Using Modbus-RTU communication protocol, the format is as follows:
-Time for initial structure ≥ 4 bytes
-Address code = 1 byte
-Function code = 1 byte
-Data area = N bytes
-Error check = 16-bit CRC code
-End structure ≥ 4 bytes of time
-Address code: the address of the transmitter,, which is unique in the communication network
-(factory default 0x01).
+
 
 
