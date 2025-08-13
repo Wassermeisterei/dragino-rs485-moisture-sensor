@@ -1,0 +1,3 @@
+// you may change the password printed on the sticker in the box
+AT+PWORD=123456
+
