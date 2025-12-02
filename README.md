@@ -1,7 +1,7 @@
 # dragino-rs485-configuration & connection
 This is a quick quide how to configuate Dragino RS485 LB/LS endevice for soil moisture senors (RS485 MODBUS) via PuTTY client.
 see also https://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/RS485-LB_Waterproof_RS485UART_to_LoRaWAN_Converter/
-<img width="1080" height="882" alt="grafik" src="https://github.com/user-attachments/assets/66c783df-49d7-4440-8f45-c55e450959f9" />
+<img width="800" height="882" alt="grafik" src="https://github.com/user-attachments/assets/66c783df-49d7-4440-8f45-c55e450959f9" />
 
 
 We use Modbus-RTU communication protocol and following sensors: 
