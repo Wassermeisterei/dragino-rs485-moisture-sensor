@@ -13,9 +13,7 @@ Please note: TXD is connected to RXD, RXD to TXD!!
 <img width="506" height="350" alt="grafik" src="https://github.com/user-attachments/assets/d397d77a-61b0-448c-9687-e585fec1951d" />
 
 
-To read sensor values connect sensor as shown below:
-China Sensor (SN-300SD-TR-NO1)
-
-<img width="896" height="646" alt="grafik" src="https://github.com/user-attachments/assets/e512b2e3-d52e-4a6e-9167-e8a45eb97a1c" /><img width="261" height="185" alt="grafik" src="https://github.com/user-attachments/assets/115cfe30-65e9-4d87-bbe0-4321acf96be2" />
+To read sensor values connect sensor to device as shown below:
+<img width="653" height="392" alt="grafik" src="https://github.com/user-attachments/assets/a5a019b7-cceb-4717-a4c3-e19656c37cbd" />
 
 
