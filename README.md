@@ -11,4 +11,4 @@ Connect the Dragino device via serial reader.
 Please note: TXD is connected to RXD, RXD to TXD!!
 
 
-<img width="1012" height="700" alt="grafik" src="https://github.com/user-attachments/assets/d397d77a-61b0-448c-9687-e585fec1951d" />
+<img width="506" height="350" alt="grafik" src="https://github.com/user-attachments/assets/d397d77a-61b0-448c-9687-e585fec1951d" />
