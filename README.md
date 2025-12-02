@@ -14,7 +14,7 @@ Please note: TXD is connected to RXD, RXD to TXD!!
 
 
 To read sensor values connect sensor to device as shown below:
-<img width="1151" height="653" alt="grafik" src="https://github.com/user-attachments/assets/5dd9dc19-f084-4461-9362-6838036efa9c" />
+<img width="500" height="300" alt="grafik" src="https://github.com/user-attachments/assets/5dd9dc19-f084-4461-9362-6838036efa9c" />
 
 
 
