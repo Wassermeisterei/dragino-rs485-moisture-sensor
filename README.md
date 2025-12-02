@@ -4,7 +4,7 @@ see also https://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRa
 
 We use Modbus-RTU communication protocol and following sensors: 
 - truebner SMT100: https://www.truebner.de/assets/download/AN002.pdf
-- no name china sensor (see default setting)
+- SN 300 SD TR No1 (alternative sensor from china):https://schaeferei-arensnest.de/wp-content/uploads/2025/12/SN-3000-TR-N01_Soil-temperature-and-moisture-transmitter-485-type-manual-1.pdf
  
 
 For configuration connect the Dragino device via serial reader.
@@ -14,6 +14,7 @@ Please note: TXD is connected to RXD, RXD to TXD!!
 
 
 To read sensor values connect sensor to device as shown below:
-<img width="653" height="392" alt="grafik" src="https://github.com/user-attachments/assets/a5a019b7-cceb-4717-a4c3-e19656c37cbd" />
+<img width="1151" height="653" alt="grafik" src="https://github.com/user-attachments/assets/5dd9dc19-f084-4461-9362-6838036efa9c" />
+
 
 
