@@ -5,11 +5,14 @@ see also https://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRa
 
 
 We use Modbus-RTU communication protocol and following sensors: 
-![OIP-3304996835](https://github.com/user-attachments/assets/f5a1cad1-49c1-43ab-9c1e-bae5f6ced59f)
 
-- truebner SMT100: https://www.truebner.de/assets/download/AN002.pdf
+
+- truebner SMT100:
+![OIP-3304996835](https://github.com/user-attachments/assets/f5a1cad1-49c1-43ab-9c1e-bae5f6ced59f)
+https://www.truebner.de/assets/download/AN002.pdf
+- SN 300 SD TR No1 (alternative sensor from china):
 <img width="471" height="400" alt="grafik" src="https://github.com/user-attachments/assets/2cd84823-621e-4058-9f8a-785e3f7a54f3" />
-- SN 300 SD TR No1 (alternative sensor from china):https://schaeferei-arensnest.de/wp-content/uploads/2025/12/SN-3000-TR-N01_Soil-temperature-and-moisture-transmitter-485-type-manual-1.pdf
+https://schaeferei-arensnest.de/wp-content/uploads/2025/12/SN-3000-TR-N01_Soil-temperature-and-moisture-transmitter-485-type-manual-1.pdf
  
 
 For configuration connect the Dragino device via serial reader.
