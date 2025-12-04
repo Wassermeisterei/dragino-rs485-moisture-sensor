@@ -30,12 +30,11 @@ AT+CMDDL1=10
 AT+CMDDL2=10
 AT+CMDDL3=10
 AT+CMDDL4=10
-AT+CMDDLn=10 //change senor#
 
 //Others...
 AT+CMDEAR=mm,nn //mm: start position (command#)  of erase ,nn: stop position (Command#) of erase
 AT+GETSENSORVALUE=0 // read sensor value + print to terminal
-AT+GETSENSORVALUE=0 // read sensor value + print to terminal + send to ttn
+AT+GETSENSORVALUE=1 // read sensor value + print to terminal + send to ttn
 
 //see also:
 //sensormanual: https://www.truebner.de/assets/download/AN002.pdf
