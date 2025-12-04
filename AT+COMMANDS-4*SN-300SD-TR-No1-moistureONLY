@@ -1,0 +1,37 @@
+//AT-COMMANDS to configure DRA485 with SN-300SD-TR-N01 multiple moisture sensores
+// you may change the password printed on the sticker in the box
+AT+PWORD=123456
+//read LoRaEUI to register in TTN
+AT+CFG //read ALL
+
+
+AT+BAUDR=9600
+AT+DATABIT=8
+AT+STOPBIT=1
+AT+PARITY=0 //NO parity
+AT+5VT=100
+AT+TDC=21600000//change time intervall
+//1h= 3600000 
+//3h= 1800000
+//6h= 21600000
+
+AT+COMMAND1=01 03 00 00 00 01,1
+AT+COMMAND2=02 03 00 00 00 01,1
+AT+COMMAND3=03 03 00 00 00 01,1
+AT+COMMAND4=04 03 00 00 00 01,1
+
+AT+DATACUT1=7,1,4+5
+AT+DATACUT2=7,1,4+5
+AT+DATACUT3=7,1,4+5
+AT+DATACUT4=7,1,4+5
+
+...
+AT+CMDDL1=100
+AT+CMDDL2=100
+AT+CMDDL3=100
+AT+CMDDL4=100
+
+//Others...
+AT+CMDEAR=mm,nn //mm: start position (command#)  of erase ,nn: stop position (Command#) of erase
+AT+GETSENSORVALUE=0 // read sensor value + print to terminal
+AT+GETSENSORVALUE=1 // read sensor value + print to terminal + send to ttn
