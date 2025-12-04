@@ -35,3 +35,5 @@ AT+CMDDL4=100
 AT+CMDEAR=mm,nn //mm: start position (command#)  of erase ,nn: stop position (Command#) of erase
 AT+GETSENSORVALUE=0 // read sensor value + print to terminal
 AT+GETSENSORVALUE=1 // read sensor value + print to terminal + send to ttn
+
+//see also https://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/RS485-LB_Waterproof_RS485UART_to_LoRaWAN_Converter/
