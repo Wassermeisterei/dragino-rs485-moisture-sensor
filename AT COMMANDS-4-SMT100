@@ -36,3 +36,6 @@ AT+CMDDLn=10 //change senor#
 AT+CMDEAR=mm,nn //mm: start position (command#)  of erase ,nn: stop position (Command#) of erase
 AT+GETSENSORVALUE=0 // read sensor value + print to terminal
 AT+GETSENSORVALUE=0 // read sensor value + print to terminal + send to ttn
+
+//see also:
+//sensormanual: https://www.truebner.de/assets/download/AN002.pdf
