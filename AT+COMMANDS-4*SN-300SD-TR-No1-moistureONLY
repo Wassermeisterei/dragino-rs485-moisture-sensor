@@ -36,4 +36,6 @@ AT+CMDEAR=mm,nn //mm: start position (command#)  of erase ,nn: stop position (Co
 AT+GETSENSORVALUE=0 // read sensor value + print to terminal
 AT+GETSENSORVALUE=1 // read sensor value + print to terminal + send to ttn
 
-//see also https://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/RS485-LB_Waterproof_RS485UART_to_LoRaWAN_Converter/
+//see also:
+//device manual: https://wiki.dragino.com/xwiki/bin/view/Main/User%20Manual%20for%20LoRaWAN%20End%20Nodes/RS485-LB_Waterproof_RS485UART_to_LoRaWAN_Converter/
+// sensor manual: https://schaeferei-arensnest.de/wp-content/uploads/2025/12/SN-3000-TR-N01_Soil-temperature-and-moisture-transmitter-485-type-manual-1-1.pdf
