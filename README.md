@@ -30,5 +30,7 @@ To read sensor values connect sensor to device as shown below:
 
 <img width="500" height="300" alt="grafik" src="https://github.com/user-attachments/assets/5dd9dc19-f084-4461-9362-6838036efa9c" />
 
+To change sensorsettings in Modpoll use follwing commands:
+![modpol-config](https://github.com/user-attachments/assets/92b15d0a-c626-48d9-ba57-4bcdb07751ce)
 
 
