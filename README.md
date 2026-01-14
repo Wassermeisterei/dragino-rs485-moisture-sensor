@@ -30,6 +30,14 @@ To read sensor values connect sensor to device as shown below:
 
 <img width="500" height="300" alt="grafik" src="https://github.com/user-attachments/assets/5dd9dc19-f084-4461-9362-6838036efa9c" />
 
+To configure AT-COMMANDS via putty
+1) force on "local echo" and "local line editin"g in the category "Terminal"
+   <img width="700" height="612" alt="grafik" src="https://github.com/user-attachments/assets/9d26f2cd-f627-4614-bae0-fa4acc0659e4" />
+2) "Print proxy diagnostics..." in the category Connection > "Proxy" chose "Yes"
+   <img width="706" height="607" alt="grafik" src="https://github.com/user-attachments/assets/db73588d-1a0a-4118-a146-4bda71b5c778" />
+
+
+
 To change sensorsettings in Modpoll use follwing commands:
 ![modpol-config](https://github.com/user-attachments/assets/92b15d0a-c626-48d9-ba57-4bcdb07751ce)
 
