@@ -1,1 +1,25 @@
-SENSOR konfigurieren mit Modbuspoll (Mbpoll)
+SN-300SD-TR-NO1 -SENSOR konfigurieren mit Modbuspoll (Mbpoll)
+
+
+1) F3 -> BAUTRATE: 4800 //Bautrate änddern und mit Sensor verbinden
+
+2) Alt+F6:
+    Adress: 2000 //Register für ID#
+    Value: 1,2,3... // Sensor ID ändern
+
+3) F8 -> neue Sensor ID eingeben -> enter
+
+4) Alt+F6:
+    Adress: 2001 //Baudrate
+    Value: 2 //für Baudrate 9600
+
+5) F4 // ausloggen 
+
+6) F3 -> BAUTRATE: 9600 //Bautrate änddern, mit Sensor verbinden und prüfen ob Sensor reagiert
+
+...beginne wieder bei 1) 
+
+
+
+
+    
