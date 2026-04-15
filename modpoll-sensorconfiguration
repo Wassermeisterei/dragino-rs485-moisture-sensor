@@ -17,6 +17,8 @@ SN-300SD-TR-NO1 -SENSOR konfigurieren mit Modbuspoll (Mbpoll)
 
 6) F3 -> BAUTRATE: 9600 //Bautrate änddern, mit Sensor verbinden und prüfen ob Sensor reagiert
 
+7) F4 //ausloggen
+
 ...beginne wieder bei 1) 
 
 
