@@ -10,8 +10,8 @@ AT+PARITY=0 //NO parity
 //Anpassung (muss geändert werden)
 
 
-AT+5VT=500
-AT+TDC=21600
+AT+5VT=1200
+AT+TDC=3600000
 
 AT+COMMAND1=01 03 00 00 00 01,1 
 AT+COMMAND2=02 03 00 00 00 01,1
