@@ -1,11 +1,10 @@
 //AT-COMMANDS - Dragino RS485 + 12 SN300SD-TR-NO1
+// Messung alle 6h
+// Baudrate: 9600
+// DATABIT=8
+// AT+STOPBIT=1
+// NO parity (PARITY=0)
 
-//Voreinstellungen (müssen nicht geändert werden!)
-
-AT+BAUDR=9600
-AT+DATABIT=8
-AT+STOPBIT=1
-AT+PARITY=0 //NO parity
 
 //Anpassung (muss geändert werden)
 
