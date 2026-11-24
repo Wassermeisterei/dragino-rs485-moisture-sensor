@@ -17,8 +17,7 @@ https://www.truebner.de/assets/download/AN002.pdf
 
 <img width="471" height="400" alt="grafik" src="https://github.com/user-attachments/assets/2cd84823-621e-4058-9f8a-785e3f7a54f3" />
 
-https://schaeferei-arensnest.de/wp-content/uploads/2025/12/SN-3000-TR-N01_Soil-temperature-and-moisture-transmitter-485-type-manual-1.pdf
- 
+https://wassermeisterei.org/wp-content/uploads/2026/11/SN-3000-TR-N01_Soil-temperature-and-moisture-transmitter-485-type-manual-1.pdf
 
 For configuration connect the Dragino device via serial reader.
 Please note: TXD is connected to RXD, RXD to TXD!!
